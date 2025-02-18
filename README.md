@@ -1,20 +1,16 @@
-# Admin Panel for E-Learning Application
+# admin
 
-## Overview
-This is the admin panel for the e-learning application, built using Flutter, GetX, PHP, and MySQL. The admin panel allows administrators to manage courses, categories, users, and video content effectively.
+A new Flutter project.
 
-## Features
-- **User Management**: Add, edit, and remove users.
-- **Course Management**: Create, update, and delete courses.
-- **Category Management**: Organize courses into categories.
-- **Video Management**: Upload and manage course videos.
-- **Statistics & Reports**: View insights on user activity and course performance.
-- **Secure Authentication**: Admin login with security measures.
+## Getting Started
 
-## Technologies Used
-- **Frontend**: Flutter (GetX for state management)
-- **Backend**: PHP with MySQL database
-- **API Communication**: RESTful APIs
+This project is a starting point for a Flutter application.
 
----
-Developed by Ahmed Mohammed Ahmed Sarbal
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
